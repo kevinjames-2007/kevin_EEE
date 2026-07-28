@@ -2,25 +2,18 @@
 
 ## Electrical & Electronics Engineering Student ⚡
 
-I am an EEE student interested in **Electric Vehicles, Embedded Systems, and Electronics Design**.
+I am an EEE student passionate about **Electric Vehicles, Embedded Systems, and Electronics Design**.
 
-Currently exploring:
-
-* Microcontrollers (ESP32, Arduino)
-* C Programming
-* Embedded Systems
-* Circuit Simulation using LTspice
-* Sensors and Communication Protocols
-* Electric Vehicle Technology
+I enjoy exploring how hardware, software, and engineering concepts come together to create real-world solutions.
 
 ## Skills & Learning Journey
 
 ### Programming
 
-* C
+* C Programming
 * Python (Basics)
 
-### Electronics
+### Embedded Systems
 
 * ESP32
 * Arduino
@@ -28,48 +21,54 @@ Currently exploring:
 * UART, SPI, I2C
 * Sensors and Actuators
 
-### Simulation Tools
+### Engineering Tools
 
 * LTspice
 * MATLAB/Simulink (Learning)
 
 ## Projects 🚀
 
-### 🔋 EV Battery Monitoring System (Learning Project)
+### ⚡ VoltSight
+
+**An EV-focused technology concept exploring intelligent monitoring and embedded solutions.**
+
+Currently exploring:
+
+* EV electronics
+* Sensor-based monitoring
+* Embedded system design
+* Real-time data collection
+* Smart vehicle applications
+
+### 🔋 EV Battery Monitoring System
 
 * ESP32-based monitoring system
-* Reads voltage and sensor data
-* Exploring low-power operation and communication
+* Voltage and sensor data acquisition
+* Exploring low-power systems and communication protocols
 
 ### 🪖 Smart Helmet Prototype
 
 * ESP32-based safety system
-* Sensors and embedded control
-* Exploring real-world IoT applications
+* Sensor integration
+* Embedded control and automation
 
-### ⚡ Circuit Simulation Practice
+### 🔌 Circuit Simulation Practice
 
-* Analysing electronic circuits using LTspice
-* Studying power electronics concepts
+* Circuit analysis using LTspice
+* Exploring power electronics and electrical systems
 
-## Goals
-
-My goal is to combine:
-
-* Electrical Engineering
-* Embedded Systems
-* Electric Vehicles
-* Product Development
-
-to build practical engineering solutions.
-
-## Currently Learning 📚
+## Current Learning Goals 📚
 
 * Advanced C Programming
-* Embedded Systems Design
-* EV Electronics
+* Embedded Systems
+* EV Technology
 * Battery Management Systems
 * Motor Control Basics
+* Product Development
+
+## Vision
+
+To combine **Electrical Engineering + Embedded Systems + Electric Vehicles** to create practical and innovative solutions.
 
 ---
 
